@@ -18,11 +18,10 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .seo {
     color: #d9dcd6;
 }
+
+/* took out the .seo because the color was the same as the header */
 
 .header div {
     padding-top: 15px;
